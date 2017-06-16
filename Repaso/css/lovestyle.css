@@ -1,0 +1,30 @@
+.upper{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.marg-t{
+    margin-top: 200px;
+}
+
+.marg-title{
+    margin-top: 80px;
+    margin-bottom: 100px;
+}
+
+.fot{
+    height: 200px;
+    background-color: gainsboro;
+    margin-top: 150px;
+}
+
+.font{
+    font-size: 20px;
+    color: darkslategray;
+    padding-top: 90px;
+}
+
+.space{
+    margin-left: 80px;
+    margin-right:80px;
+}

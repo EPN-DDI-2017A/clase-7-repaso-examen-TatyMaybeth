@@ -1,0 +1,55 @@
+.color {
+    background-color: white;
+}
+
+.form-control{
+    border-radius: 0px;
+}
+
+.btn-outline-success{
+    color: yellow;
+    border-color: yellow;
+    background-color: yellow;
+}
+
+.new{
+    padding: 8px 12px;
+}
+
+.fontl{
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+}
+
+.font{
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.fontc{
+    font-size: 55px;
+    color: gainsboro;
+}
+
+.carousel-indicators li {
+    max-width: 10px;
+    height: 9px;
+    background-color: white;
+    border: 0.5px solid rgba(0,0,0,.15);
+}
+
+.carousel-indicators .active{
+    background-color: yellow;
+    border: 0.5px solid yellow;
+}
+
+.space{
+    padding-bottom: 250px;
+}
+
+.fab{
+    color: white;
+}

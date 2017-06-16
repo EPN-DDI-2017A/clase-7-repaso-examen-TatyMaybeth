@@ -1,0 +1,37 @@
+.btn-w{
+    padding: 8px 10px;
+    background-color: white;
+    border-color: white;
+    color: gainsboro;
+}
+
+.btn-outline-success:hover{
+    background-color: yellow;
+    border-color: yellow;
+    color: white;
+}
+
+.color{
+    background-color: black;
+    font-size: 50px;
+    min-height: 400px;
+    padding-top: 150px;
+}
+
+.form-control{
+    border-radius: 0;
+    background-color: gainsboro;
+}
+.btn-b{
+    background-color: #2aabd2;
+    color: white;
+    padding: 7px 10px;
+}
+
+.color1{
+    background-color: black;
+    font-size: 40px;
+    min-height: 100px;
+    color: gainsboro;
+    padding-top: 20px;
+}
